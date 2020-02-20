@@ -1,5 +1,5 @@
 ---
-title: Hello world!
+title: 'Thursday, February 6th'
 date: 2020-02-20T18:55:08.906Z
 subtitle: 'Salutations '
 cover: /assets/drew-beamer-3SIXZisims4-unsplash.jpg
