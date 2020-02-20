@@ -1,5 +1,5 @@
 ---
-title: 'Wednesday, February 4th'
+title: 'Tuesday, February 4th'
 date: 2019-09-07T05:42:28.441Z
 subtitle: >-
   If you have ever built an application which needs to take a screenshot of
