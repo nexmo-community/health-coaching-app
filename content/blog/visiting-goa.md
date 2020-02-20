@@ -1,5 +1,5 @@
 ---
-title: Post 2
+title: 'Monday, February 3rd'
 date: 2019-09-07T05:43:53.681Z
 subtitle: Record of Tuesday
 cover: /assets/brett-jordan-1329359-unsplash.jpg
