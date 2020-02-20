@@ -23,11 +23,9 @@ const Home = () => {
 				</div>
 				<div class={style.quote}>
 					<div class={style.details}>
-						Jane presents traditional spanish art with a modern twist. Her work is
-						excellent quality, her technique is brilliant and her love of the
-						subject matter shines through.
+						This is my space to record my daily fitness activity, food consumption, energy level, and thoughts!
+						Tracking this information will help me hold myself accountable and receive better support from my coaches.
 					</div>
-					<div class={style.author}>- The Local Newspaper</div>
 				</div>
 			</div>
 			<div class={style.bio}>
