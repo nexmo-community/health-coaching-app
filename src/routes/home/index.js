@@ -30,6 +30,7 @@ const Home = () => {
 			</div>
 			<div class={style.bio}>
 				<p class={style.bioleft}>
+					More infoformation I would like to share.
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 					eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
 					minim veniam, quis nostrud exercitation ullamco laboris nisi ut
