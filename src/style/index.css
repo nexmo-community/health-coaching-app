@@ -40,6 +40,11 @@ a {
 	position: relative;
 }
 
+.otEmbedContainer {
+	width: 800px;
+	height: 640px;
+}
+
 @keyframes placeHolderShimmer{
   0% {
       background-position: -468px 0;
