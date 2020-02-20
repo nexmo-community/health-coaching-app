@@ -1,7 +1,9 @@
 ---
-title: Wanderlust
+title: 'Sunday, February 2nd'
 date: 2019-08-27T18:44:24.217Z
-tags: 'travel, philosophy, hobby'
+subtitle: Daily musings
+cover: /assets/cody-black-nm89mzvar5i-unsplash.jpg
+tags: Fitness; Food
 ---
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem #accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
