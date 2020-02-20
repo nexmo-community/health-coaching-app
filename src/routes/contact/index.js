@@ -7,7 +7,7 @@ const photographs = (props) => {
 			<h1 class={style.pageTitle}>Hello.</h1>
 			<div class={style.formWrapper}>
 				<p class={style.pageBody}>
-					<div>Let's connect.</div>
+					<div>Lets connect.</div>
 					<div>&nbsp;</div>
 				</p>
 				<div class={style.otEmbedContainer}>
