@@ -4,14 +4,15 @@ import style from './style';
 const photographs = (props) => {
 	return (
 		<div class={style.pageContact}>
-			<h1 class={style.pageTitle}>Contact me</h1>
+			<h1 class={style.pageTitle}>Hello.</h1>
 			<div class={style.formWrapper}>
 				<p class={style.pageBody}>
-					<div>Hi!</div>
-					<div>If you are interested in my work and are looking to contact me for a contract please use the following form to contact me.</div>
+					<div>Let's connect.</div>
 					<div>&nbsp;</div>
-					<div>Cheers 🍻</div>
 				</p>
+				<div id="otEmbedContainer" style="width:800px; height:640px"></div>
+				<script src="https://tokbox.com/embed/embed/ot-embed.js?embedId=7e090103-ae17-4dc7-b610-ada90089c782&room=DEFAULT_ROOM"></script>
+
 				<form name="contact" method="POST" data-netlify="true" action="/contact/success" data-netlify-honeypot="bot-field">
 					<input type="hidden" name="form-name" value="contact" />
 					<p>
