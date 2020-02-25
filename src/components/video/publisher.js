@@ -1,10 +1,8 @@
-// Publisher.js
-
-import React from "react";
+import { h, Component } from 'preact';
 import { OTPublisher } from "opentok-react";
 import CheckBox from "./checkbox";
 
-class Publisher extends React.Component {
+class Publisher extends Component {
     constructor(props) {
         super(props);
 

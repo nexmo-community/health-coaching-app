@@ -1,9 +1,6 @@
+import { h, Component } from 'preact';
 
-import { h } from 'preact';
-
-import React from "react";
-
-class ConnectionStatus extends React.Component {
+class ConnectionStatus extends Component {
     render() {
         let status = this.props.connected ? "Connected" : "Disconnected";
         return (

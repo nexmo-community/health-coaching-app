@@ -1,12 +1,10 @@
-// VideoComponent.js
-
-import React from 'react';
+import { h, Component } from 'preact';
 import { OTSession, OTStreams, preloadScript } from 'opentok-react';
 import ConnectionStatus from './connectionStatus';
 import Publisher from './publisher';
 import Subscriber from './subscriber';
 
-class VideoComponent extends React.Component {
+class VideoComponent extends Component {
     constructor(props) {
         super(props);
         this.state = {

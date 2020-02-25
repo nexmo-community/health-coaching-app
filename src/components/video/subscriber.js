@@ -1,11 +1,8 @@
-// Subscriber.js
-
-import React from "react";
-
+import { h, Component } from 'preact';
 import { OTSubscriber } from "opentok-react";
 import CheckBox from "./checkbox";
 
-class Subscriber extends React.Component {
+class Subscriber extends Component {
     constructor(props) {
         super(props);
 

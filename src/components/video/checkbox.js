@@ -1,9 +1,7 @@
-// CheckBox.js
-
-import React from "react";
+import { h, Component } from 'preact';
 import { uniqueId } from "lodash";
 
-class CheckBox extends React.Component {
+class CheckBox extends Component {
     constructor(props) {
         super(props);
 
