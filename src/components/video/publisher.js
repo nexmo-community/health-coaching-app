@@ -2,7 +2,7 @@
 
 import React from "react";
 import { OTPublisher } from "opentok-react";
-import CheckBox from "./checkBox";
+import CheckBox from "./checkbox";
 
 class Publisher extends React.Component {
     constructor(props) {

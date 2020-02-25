@@ -3,7 +3,7 @@
 import React from "react";
 
 import { OTSubscriber } from "opentok-react";
-import CheckBox from "./checkBox";
+import CheckBox from "./checkbox";
 
 class Subscriber extends React.Component {
     constructor(props) {
