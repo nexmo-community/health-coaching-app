@@ -28,7 +28,7 @@ class Subscriber extends Component {
     render() {
         return (
             <div className="subscriber">
-                Subscriber
+                Guest
         {this.state.error ? <div id="error">{this.state.error}</div> : null}
                 <OTSubscriber
                     properties={{

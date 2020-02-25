@@ -35,8 +35,7 @@ class Publisher extends Component {
     render() {
         return (
             <div className="publisher">
-                Publisher
-        {this.state.error ? <div id="error">{this.state.error}</div> : null}
+                {this.state.error ? <div id="error">{this.state.error}</div> : null}
                 <OTPublisher
                     properties={{
                         publishAudio: this.state.audio,
@@ -46,13 +45,9 @@ class Publisher extends Component {
                     }}
                     onError={this.onError}
                 />
-                <CheckBox label="Share Screen" onChange={this.changeVideoSource} />
-                <CheckBox
-                    label="Publish Audio"
-                    initialChecked={this.state.audio}
-                    onChange={this.setAudio}
-                />
-                <CheckBox label="Publish Video" initialChecked={this.state.video} onChange={this.setVideo} />
+                <CheckBox label="Share Screen" checked={this.state.videoSource === "screen"} onChange={this.changeVideoSource} />
+                <CheckBox label="Enable Audio" checked={this.state.audio === "audio"} onChange={this.setAudio} />
+                <CheckBox label="Enable Video" checked={this.state.videoSource === "video"} onChange={this.setVideo} />
             </div>
         );
     }
