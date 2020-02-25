@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { OTSession, OTStreams, preloadScript } from 'opentok-react';
-import ConnectionStatus from './ConnectionStatus';
+import ConnectionStatus from './connectionStatus';
 import Publisher from './Publisher';
 import Subscriber from './Subscriber';
 
