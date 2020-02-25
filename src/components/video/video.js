@@ -3,8 +3,8 @@
 import React from 'react';
 import { OTSession, OTStreams, preloadScript } from 'opentok-react';
 import ConnectionStatus from './connectionStatus';
-import Publisher from './Publisher';
-import Subscriber from './Subscriber';
+import Publisher from './publisher';
+import Subscriber from './subscriber';
 
 class VideoComponent extends React.Component {
     constructor(props) {
