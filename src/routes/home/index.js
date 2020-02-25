@@ -11,9 +11,9 @@ const Home = () => {
 	useEffect(() => {
 		if (window !== undefined && window.location.href.includes('#invite_token')) {
 			const { href } = window.location;
-			window.location.href= `${href.substring(0, href.indexOf('#'))}admin${href.substring(href.indexOf('#'))}`;
+			window.location.href = `${href.substring(0, href.indexOf('#'))}admin${href.substring(href.indexOf('#'))}`;
 		}
-	},[]);
+	}, []);
 
 	return (
 		<div class={style.home}>
@@ -23,12 +23,12 @@ const Home = () => {
 				</div>
 				<div class={style.quote}>
 					<div class={style.details}>
-						This is my space to record my daily fitness activity, food consumption, energy level, and thoughts!
-						Tracking this information will help me hold myself accountable and receive better support from my coaches.
+						<p>I will blog about my daily fitness activity, food consumption, energy level, and thoughts in this space.</p>
+						<p>Tracking this information will enable me to hold myself accountable and receive better support from my coaches!</p>
 					</div>
 				</div>
 			</div>
-			<div class={style.bio}>
+			{/* <div class={style.bio}>
 				<p class={style.bioleft}>
 					More infoformation I would like to share.
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -48,7 +48,7 @@ const Home = () => {
 					qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui
 					dolorem ipsum quia dolor sit amet, consectetur.
 				</p>
-			</div>
+			</div> */}
 		</div>
 	);
 };

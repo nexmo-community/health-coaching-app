@@ -24,18 +24,14 @@
 	flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-image: url("/assets/quotes.svg");
-  background-repeat: no-repeat;
   background-position: center;
 }
 
 .details{
 	font-family: serif;
 	font-size: 32px;
-	font-style: italic;
 	padding-left: 32px;
 	text-align: center;
-	color: gray;
 	padding-bottom: 32px;
 }
 
