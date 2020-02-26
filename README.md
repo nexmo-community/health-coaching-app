@@ -5,19 +5,19 @@
 ``` bash
 
 # install Preact CLI globally from NPM
-'npm i -g preact-cli`
+npm i -g preact-cli
 
 # install dependencies
 npm install
 
 # serve with hot reload at localhost:8080
-`npm run dev`
+npm run dev
 
 # build for production with minification
-`npm run build`
+npm run build
 
 # run tests with jest and preact-render-spy
-`npm run test`
+npm run test
 ```
 
 For detailed explanation on how things work, checkout the [CLI Readme](https://github.com/developit/preact-cli/blob/master/README.md).
