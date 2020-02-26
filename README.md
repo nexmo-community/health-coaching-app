@@ -1,4 +1,3 @@
-
 # How to Add Video Chat to Your Preact PWA using OpenTok 
 
 ## CLI Commands
@@ -37,14 +36,24 @@ For detailed explanation on how things work, checkout the [CLI Readme](https://g
 
 *Note:* Go to `https://<your-domain>/admin` in order to access Netlify CMS.
 
-Code of Conduct
-In the interest of fostering an open and welcoming environment, we strive to make participation in our project and our community a harassment-free experience for everyone. Please check out our Code of Conduct in full.
+## Code of Conduct
 
-Contributing
-We ❤️ contributions from everyone! Check out the Contributing Guidelines for more information.
+In the interest of fostering an open and welcoming environment, we strive to make participation in our project and our community a harassment-free experience for everyone. Please check out our [Code of Conduct][coc] in full.
 
-contributions welcome
+## Contributing 
+We :heart: contributions from everyone! Check out the [Contributing Guidelines][contributing] for more information.
 
-License
-This project is subject to the MIT License
+[![contributions welcome][contribadge]][issues]
 
+## License
+
+This project is subject to the [MIT License][license]
+
+[logo]: nexmo.png "Nexmo"
+[contribadge]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat "Contributions Welcome"
+
+[coc]: CODE_OF_CONDUCT.md "Code of Conduct"
+[contributing]: CONTRIBUTING.md "Contributing"
+[license]: LICENSE "MIT License"
+
+[issues]: ./../../issues "Issues"
