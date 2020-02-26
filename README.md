@@ -1,4 +1,5 @@
-# blog
+
+# How to Add Video Chat to Your Preact PWA using OpenTok 
 
 ## CLI Commands
 
@@ -35,4 +36,15 @@ For detailed explanation on how things work, checkout the [CLI Readme](https://g
 - Done 👍🏻.
 
 *Note:* Go to `https://<your-domain>/admin` in order to access Netlify CMS.
+
+Code of Conduct
+In the interest of fostering an open and welcoming environment, we strive to make participation in our project and our community a harassment-free experience for everyone. Please check out our Code of Conduct in full.
+
+Contributing
+We ❤️ contributions from everyone! Check out the Contributing Guidelines for more information.
+
+contributions welcome
+
+License
+This project is subject to the MIT License
 
