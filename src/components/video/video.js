@@ -27,9 +27,9 @@ class VideoComponent extends Component {
     render() {
         return (
             <OTSession
-                apiKey='46520712'
-                sessionId='1_MX40NjUyMDcxMn5-MTU4MjU5OTQ5NTk3N34wSDJTK2c1SmJsZWIxRmpxczJTb2QvZXl-fg'
-                token='T1==cGFydG5lcl9pZD00NjUyMDcxMiZzaWc9YzVkYTU3MjZiNjNlMzcyYTU3MGYyNDI4MjZhYTI3ZGM5NzcxZmRkYzpzZXNzaW9uX2lkPTFfTVg0ME5qVXlNRGN4TW41LU1UVTRNalU1T1RRNU5UazNOMzR3U0RKVEsyYzFTbUpzWldJeFJtcHhjekpUYjJRdlpYbC1mZyZjcmVhdGVfdGltZT0xNTgyNTk5NTA5Jm5vbmNlPTAuNjExNTYwNTQxMDg2NTEzJnJvbGU9cHVibGlzaGVyJmV4cGlyZV90aW1lPTE1ODI2MjExMDkmaW5pdGlhbF9sYXlvdXRfY2xhc3NfbGlzdD0='
+                apiKey='46521572'
+                sessionId='1_MX40NjUyMTU3Mn5-MTU4MjcyNTkzMTUxNn5ROGVzMjVwa2hRZUN6bWZheTc2WW1IK0V-fg'
+                token='T1==cGFydG5lcl9pZD00NjUyMTU3MiZzaWc9OWRjNGFhZTdjZmQyMGEzZWEwODNiNGE2OWU3MTNmZjFjODVkMzJmYzpzZXNzaW9uX2lkPTFfTVg0ME5qVXlNVFUzTW41LU1UVTRNamN5TlRrek1UVXhObjVST0dWek1qVndhMmhSWlVONmJXWmhlVGMyV1cxSUswVi1mZyZjcmVhdGVfdGltZT0xNTgyNzI1OTQzJm5vbmNlPTAuMjQ3MzgxMDQ5NjYwNTUzMDgmcm9sZT1wdWJsaXNoZXImZXhwaXJlX3RpbWU9MTU4NTMxNDM0MiZpbml0aWFsX2xheW91dF9jbGFzc19saXN0PQ=='
                 eventHandlers={this.sessionEvents}
                 onError={this.onError}
             >

@@ -6,7 +6,7 @@
 	float: left;
 	margin: 0;
 	padding: 0 15px;
-	font-size: 40px;
+	font-size: 45px;
 	line-height: 100px;
 	font-weight: 400;
 	font-family: 'Helvetica Neue', arial, sans-serif;;
@@ -27,7 +27,7 @@
 	text-align: center;
 	background: rgba(255,255,255,0);
 	text-decoration: none;
-	color: #333;
+	color: #fff;
 	will-change: background-color;
 	transition-property: color;
 	transition-duration: 300ms;

@@ -5,10 +5,10 @@ html, body {
 	width: 100%;
 	padding: 0 1vw;
 	margin: 0;
-	background: #FAFAFA;
+	background:  #2d3047;
 	font-family: 'Helvetica Neue', arial, sans-serif;
 	font-weight: 400;
-	color: #444;
+	color: #fff;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
@@ -24,7 +24,7 @@ html, body {
 
 a {
 	text-decoration: none;
-	color: #333;
+	color: #FFC107;
 }
 
 .loading {
