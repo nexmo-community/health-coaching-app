@@ -38,7 +38,7 @@ For detailed explanation on how things work, checkout the [CLI Readme](https://g
 
 - Invite yourself to the Identity tab in Netlify console.
 
-- Accept the invite from you mail.
+- Accept the invite from your email inbox.
 
 - Done 👍🏻.
 
