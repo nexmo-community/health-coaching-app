@@ -1,6 +1,6 @@
 # How to Add Video Chat to Your Preact PWA using OpenTok 
 
-Is becoming healthier one of your New Year's resolutions? This application will enable you to track your progress by enabling you to blog about daily activity, diet, energy levels, mood and more using Netlify CMS powered by Preact CLI. Share your app with any professionals you work with (personal trainer, nutritionist, therapist) and receive live video coaching directly from the platform using the OpenTok integration.
+Is becoming healthier one of your New Year's resolutions? This application will help you track your progress by enabling you to blog about daily activity, diet, energy levels, mood and more using Netlify CMS powered by Preact CLI. Share your app with any professionals you work with (personal trainer, nutritionist, therapist) and receive live video coaching directly from the platform using the OpenTok integration.
 
 ## Build Instructions
 
