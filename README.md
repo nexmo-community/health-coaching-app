@@ -24,11 +24,11 @@ npm run build
 npm run test
 ```
 
-For detailed explanation on how things work, checkout the [CLI Readme](https://github.com/developit/preact-cli/blob/master/README.md).
+For a detailed explanation on Preact CLI works, checkout the [Readme](https://github.com/developit/preact-cli/blob/master/README.md).
 
 ### How to setup Netlify CMS
 
-- Deploy on netlify using the CLI or the Netlify bot for [github](https://app.netlify.com/start).
+- Deploy on Netlify using the CLI or the Netlify bot for [github](https://app.netlify.com/start).
 
 - Enable Git gateway https://docs.netlify.com/visitor-access/git-gateway/.
 
